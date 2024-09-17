@@ -1,18 +1,25 @@
 # Comandos:
 
-Negrito	** ** ou __ __	> **This is bold text**
+## Negrito	** ** ou __ __
+**This is bold text**
 
-Itálico	* * ou _ _     	Comando+I (Mac) ou CTRL+I (Windows/Linux) > _This text is italicized_
+## Itálico	* * ou _ _ 	Comando+I (Mac) ou CTRL+I (Windows/Linux)
+_This text is italicized_
 
-Tachado	~~ ~~	Nenhum	~~This was mistaken text~~
+## Tachado	~~ ~~
+~~This was mistaken text~~
 
-Negrito e itálico aninhado	** ** e _ _	> **This text is _extremely_ important**
+## Negrito e itálico aninhado	** ** e _ _	 
+**This text is _extremely_ important**
 
-Todo em negrito e itálico	*** ***	> ***All this text is important***
+## Todo em negrito e itálico	*** ***	
+***All this text is important***
 
-Subscrito	<sub> </sub>	> This is a <sub>subscript</sub> text	
+## Subscrito	<sub> </sub>
+This is a <sub>subscript</sub> text	
 
-Sobrescrito	<sup> </sup>	> This is a <sup>superscript</sup> text
+## Sobrescrito	<sup> </sup>	
+This is a <sup>superscript</sup> text
 
 # Alguns comandos básicos do Git são: 
 
