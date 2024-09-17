@@ -1,0 +1,33 @@
+O que é GitHub?
+
+GitHub é uma plataforma que funciona totalmente online que hospeda códigos de programação desenvolvidos no Git, um sistema que permite aos desenvolvedores armazenar snapshots de seus projetos. O uso do Git é individual e o GitHub surgiu com a proposta dos usuários compartilharem conhecimento e atuarem em trabalhos de forma colaborativa. Por isso, ela também é conhecida como "rede social de código aberto" ou "rede social dos programadores". A plataforma conta com mais de 36 milhões de usuários ativos no mundo todo. A partir dela, profissionais da área contribuem com projetos privados e de grande importância para as empresas. Qualquer usuário pode acompanhar e gerenciar as mudanças realizadas no código-fonte em tempo real e ainda acessar os outros recursos do Git no mesmo local.
+
+Para que serve o Github?
+
+O GitHub armazena os arquivos de determinado projeto na nuvem. Assim, a plataforma conta com um banco de dados que pode ser acessado de qualquer lugar pela internet. O usuário do GitHub tem acesso aos projetos e pode iniciar o seu selecionando um já existente para otimizar ou editar para a sua necessidade. A plataforma ainda conta com a parte "rede social", em que os projetos podem ser discutidos e editados de forma pública. É nesse ambiente virtual que os desenvolvedores trocam ideias e conhecimentos que podem ser valiosos para resolver algum problema ou finalizar um código.
+
+Quem usa GitHub?
+
+Ao contrário do que muita gente pensa, o GitHub não é exclusivo para uso de desenvolvedores profissionais. Ele possui uma interface simples e fácil de usar, que permite que mesmo que pessoas que tenham pouco ou nenhum conhecimento profissional na área de TI consiga acessar e utilizar a plataforma. Assim, qualquer membro de uma equipe que queira acompanhar o andamento de um projeto ou contribuir de alguma forma, consegue fazer isso por esse meio. Grandes empresas, como WordPress, Google, Microsoft e Netflix, também usam o GitHub para resolver seus problemas e até para buscarem suporte para desenvolver suas plataformas.
+
+Quais as vantagens de usar o GitHub?
+
+O GitHub facilita a comunicação entre os programadores. Além da troca de conhecimento e experiências, profissionais de nível inicial têm a oportunidade de aprender com os mais experientes, o que é muito benéfico para quem está começando ou estudando a área de programação. Outras vantagens do uso desta plataforma são:
+
+•	Participar de fóruns e discussões sobre tecnologia;
+
+•	Possibilidade de colaborar com projetos de outras pessoas;
+
+•	Estudar programação e agregar conhecimento ao observar e analisar o avanço de projetos de terceiros;
+
+•	Obter ajuda de outros profissionais do ramo para solucionar problemas dos seus códigos de programação;
+
+•	Criar um portfólio online, com o registro de ações e contribuições em projetos na plataforma.
+
+Quanto custa o GitHub?
+
+O GitHub oferece algumas opções de uso. O plano básico é gratuito, ele oferece 500MB de espaço de armazenamento e a inclusão de repositórios e colaboradores ilimitados. É uma boa maneira de conhecer e testar o uso da plataforma com a sua equipe.  Os outros planos disponíveis variam o espaço de armazenamento e o acesso a recursos adicionais do GitHub que podem ser interessantes conforme a finalidade de uso.
+
+O uso do GitHub é seguro?
+
+O GitHub é seguro para qualquer projeto que esteja na plataforma. Os desenvolvedores da plataforma se preocupam muito com a privacidade dos dados compartilhados e oferecem uma opção de pacote para os usuários que preferirem manter seus dados em servidores particulares. Além disso, seguem as leis de proteção de informação da Europa, que são bastante semelhantes à LGPD (Lei de Proteção de Dados) vigente no Brasil. O GitHub é uma plataforma que auxilia muito na rotina de trabalho dos desenvolvedores e programadores, mas que também pode ser acessada por usuários que desejam acompanhar um projeto da equipe.
